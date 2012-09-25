@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorrorGame", "HorrorGame\HorrorGame\HorrorGame.csproj", "{773367E6-2E9C-4D51-BF02-09B467F0F8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorrorGameContent", "HorrorGame\HorrorGameContent\HorrorGameContent.contentproj", "{C1D3A916-F1AF-4130-9DEC-0B71DAEE5E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773367E6-2E9C-4D51-BF02-09B467F0F8A3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{773367E6-2E9C-4D51-BF02-09B467F0F8A3}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{773367E6-2E9C-4D51-BF02-09B467F0F8A3}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{773367E6-2E9C-4D51-BF02-09B467F0F8A3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{773367E6-2E9C-4D51-BF02-09B467F0F8A3}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{773367E6-2E9C-4D51-BF02-09B467F0F8A3}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{C1D3A916-F1AF-4130-9DEC-0B71DAEE5E64}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{C1D3A916-F1AF-4130-9DEC-0B71DAEE5E64}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
